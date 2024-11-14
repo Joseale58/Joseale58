@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Jose Rivillas 👋
+
+![Logo de Markdown](https://media.licdn.com/dms/image/v2/D4E16AQFp5wcIXxfkeg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731115032558?e=1736985600&v=beta&t=VUtcJ6zFEBx5F7vo4yA8ym5Jpfc_RZntJT3NeATxMx8)
+
 
 <!--
 **Joseale58/Joseale58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
